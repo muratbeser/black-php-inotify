@@ -1,5 +1,5 @@
 <?php
-namespace Black\OS\Inotify;
+namespace Black\OS\Read\Inotify;
 class Result
 {
 
